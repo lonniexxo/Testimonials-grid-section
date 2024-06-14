@@ -20,7 +20,7 @@ main{
 .grid{
     display: grid;
     grid-template-columns: repeat(4,33%);
-    grid-gap: 20px;
+    grid-gap: 30px;
 }
 
 .img-daniel{
