@@ -8,6 +8,7 @@
 }
 
 body{
+    text-align: center;
     margin: 12.5rem;
     background-color: hsl(210, 46%, 95%);
     font-family: 'Barlow Semi Condensed',sans-serif;
